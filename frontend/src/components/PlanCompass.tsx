@@ -53,7 +53,7 @@ export function PlanCompass({
      east, so the page is rotated 90 degrees anticlockwise from north-up. */
   const rotation =
     edgeDeg !== undefined && faceDeg !== undefined
-      ? (faceDeg - edgeDeg + 360) % 360
+      ? (edgeDeg - faceDeg + 360) % 360
       : undefined;
 
   const canOrient = rotation !== undefined && orientation?.confidence !== 'none';

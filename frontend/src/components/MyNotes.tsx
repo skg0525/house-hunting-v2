@@ -38,7 +38,9 @@ export function MyNotes({
 
   const onChange = (v: string) => {
     setText(v);
-    if (timer.current) clearTimeout(timer.current);
+    /* One save per pause, not one per keystroke: drop the pending save
+       whenever the box still matches what is already stored. */
+    if (timer.current && v === lastSaved.current) clearTimeout(timer.current);
     timer.current = setTimeout(async () => {
       if (v === lastSaved.current) return;
       setState('saving');

@@ -1039,7 +1039,7 @@ export function scoreProperty(
      backwards. So the ceiling rises with how much is actually known — an
      unresearched house stays visible and obviously worth enriching, without
      being allowed to claim a spot it has not earned. */
-  const coverage = knownWeight / allWeight;
+  const coverage = scored.length / dimensions.length;
   /* Tightened from 58 + 42 x coverage, which barely bit: a house we knew
      two-thirds about could still reach 86, and one did — 506 Boardwalk Wy sat
      sixth on the list with no floor plan, no lot size and no park data. The

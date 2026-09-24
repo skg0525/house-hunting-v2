@@ -146,7 +146,7 @@ export function HeadToHead({
     for (let i = 0; i < pool.length; i++) {
       for (let j = i + 1; j < pool.length; j++) {
         const A = pool[i], B = pool[j];
-        const key = [A.listing.id, B.listing.id].sort().join('|');
+        const key = `${A.listing.id}|${B.listing.id}`;
         if (skipped.has(key)) continue;
         const d = miles(A.listing, B.listing);
         const dp = Math.abs(A.listing.price - B.listing.price) / 1000;

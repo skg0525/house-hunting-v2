@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Home, Loader2, Ban, Star, Footprints, CalendarDays, Bookmark, Clock, Hourglass, Layers, ThumbsDown, UserRound, Hammer } from 'lucide-react';
 import { Header } from '@/components/Header';
 import { PasteBox } from '@/components/PasteBox';
@@ -163,9 +163,15 @@ interface Sieve {
 export default function Page() {
   const [health, setHealth] = useState<HealthPayload | null>(null);
   const [listings, setListings] = useState<Listing[]>([]);
+  /* Which house the detail pane is actually showing. A re-score takes a few
+     seconds and the pane can move on while it is in flight, so the answer is
+     written against this rather than against whatever was selected when the
+     button was pressed. */
+  const showing = useRef<string | null>(null);
   const [profile, setProfile] = useState<PreferenceProfile | null>(null);
   const [assessments, setAssessments] = useState<Record<string, Assessment>>({});
   const [activeId, setActiveId] = useState<string | null>(null);
+  useEffect(() => { showing.current = activeId; }, [activeId]);
 
   const [scanning, setScanning] = useState(false);
   const [pending, setPending] = useState<Set<string>>(new Set());
@@ -868,7 +874,7 @@ export default function Page() {
                     setPending((p) => new Set(p).add(active.id));
                     try {
                       const a = await rescoreOne(active.id);
-                      setAssessments((prev) => ({ ...prev, [a.listingId]: a }));
+                      setAssessments((prev) => ({ ...prev, [showing.current ?? a.listingId]: a }));
                     } finally {
                       setPending((p) => { const n = new Set(p); n.delete(active.id); return n; });
                     }
