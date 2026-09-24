@@ -1,0 +1,39 @@
+node_modules/
+.next/
+dist/
+.localstore/
+# ...except the fixture the app boots from. Candidates clone and run; there are
+# no API keys in this exercise, so the reads that would normally populate these
+# must already be here. `pages/` (cached listing HTML) is deliberately NOT here:
+# it is 282 MB of somebody else's markup and nothing in the UI needs it.
+!backend/.localstore/
+backend/.localstore/*
+!backend/.localstore/listings.json
+!backend/.localstore/perception-cache.json
+!backend/.localstore/memory.json
+!backend/.localstore/market-cache.json
+uploads/*
+!uploads/.gitignore
+.env
+.env.local
+*.log
+.DS_Store
+
+# Listing photos you drop in for the facade-rating pass. Third-party images
+# from Redfin — fine to hold locally, not ours to republish.
+facade-drop/
+
+# Working notes and the project brief. These carry the buyer's own situation —
+# family, budget, who their agent is, what they thought of specific houses —
+# and none of it is needed to run or understand the code. Kept locally.
+CLAUDE.md
+docs/
+*.md
+!README.md
+
+# Pasted listing links. Redfin's emailed URLs carry a riftinfo token that
+# decodes to the recipient's account id and the id of the email it came from —
+# a persistent identifier, in a file that is otherwise just a list of houses
+# somebody is looking at. Input data, never source.
+links.text
+*.links.txt

@@ -1,0 +1,13 @@
+{
+  "//": "Watch source only. Watching everything meant that saving a listing restarted the server, which killed whatever script had just saved it — every mysterious ECONNREFUSED during a bulk run came from this.",
+  "watch": ["src"],
+  "ext": "ts,json",
+  "ignore": [
+    ".localstore/**",
+    "uploads/**",
+    "scripts/**",
+    "public/**",
+    "dist/**"
+  ],
+  "delay": 500
+}

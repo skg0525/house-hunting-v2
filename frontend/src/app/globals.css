@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ *
+ * VastuNest command-center theme.
+ * Dark by design — this is an operations console, and the property
+ * imagery (plans, satellite) reads better against a dark ground.
+ * ------------------------------------------------------------------ */
+
+@theme {
+  --color-ink-950: #07090f;
+  --color-ink-900: #0b0e17;
+  --color-ink-850: #10141f;
+  --color-ink-800: #151a27;
+  --color-ink-700: #1e2434;
+  --color-ink-600: #2b3347;
+  --color-ink-400: #6b7590;
+  --color-ink-300: #97a1ba;
+  --color-ink-500: #4c5570;
+  --color-ink-200: #c3cade;
+  --color-ink-100: #e4e8f2;
+
+  --color-brand-400: #7dd3fc;
+  --color-brand-500: #38bdf8;
+  --color-brand-600: #0ea5e9;
+
+  --color-saffron-400: #fbbf24;
+  --color-saffron-500: #f59e0b;
+
+  --color-good-400: #4ade80;
+  --color-good-500: #22c55e;
+  --color-warn-400: #fbbf24;
+  --color-bad-400: #fb7185;
+  --color-bad-500: #f43f5e;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-mono-jet), ui-monospace, monospace;
+}
+
+html, body {
+  background: var(--color-ink-950);
+  color: var(--color-ink-200);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Ambient depth behind the console. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(900px 500px at 12% -8%, rgba(56, 189, 248, 0.10), transparent 65%),
+    radial-gradient(700px 420px at 92% 4%, rgba(245, 158, 11, 0.07), transparent 60%);
+}
+
+::-webkit-scrollbar { width: 9px; height: 9px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--color-ink-700);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--color-ink-600); }
+
+@keyframes shimmer {
+  100% { transform: translateX(100%); }
+}
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-ink-800);
+}
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.06), transparent);
+  animation: shimmer 1.6s infinite;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-rise { animation: rise 0.45s cubic-bezier(0.16, 1, 0.3, 1) both; }
+
+@keyframes pulse-ring {
+  0%   { box-shadow: 0 0 0 0 rgba(56, 189, 248, 0.45); }
+  70%  { box-shadow: 0 0 0 12px rgba(56, 189, 248, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(56, 189, 248, 0); }
+}
+.pulse-ring { animation: pulse-ring 2s infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise, .pulse-ring, .skeleton::after { animation: none; }
+}
+
+/* Tighten the dense panels on laptop widths, where the three-column layout
+   leaves the detail column narrow and the default padding eats the content. */
+@media (min-width: 1024px) and (max-width: 1400px) {
+  section.rounded-2xl {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
