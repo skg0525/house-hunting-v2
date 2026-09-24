@@ -16,11 +16,11 @@
    "lng": -84.21328249999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0681771,-84.21328249999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0681771,-84.21328249999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/988/7817988_29_0.jpg"
    ],
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0681771,-84.21328249999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0681771,-84.21328249999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "kitchenPhotos": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/988/7817988_4_3.jpg",
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/988/7817988_5_3.jpg",
@@ -277,8 +277,8 @@
   "propertyType": "Single Family",
   "hoaMonthly": 157,
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1170469,-84.186936&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1170469,-84.186936&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1170469,-84.186936&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1170469,-84.186936&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlanExtra": [],
    "kitchenPhotos": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/406/7796406_7_3.jpg",
@@ -557,8 +557,8 @@
    "lng": -84.2052598
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0857558,-84.2052598&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0857558,-84.2052598&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0857558,-84.2052598&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0857558,-84.2052598&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlanExtra": [],
    "kitchenPhotos": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/552/7804552_7_A.jpg",
@@ -786,288 +786,6 @@
   "ageRestricted": false
  },
  {
-  "id": "a276cdbe",
-  "sourceUrl": "https://www.redfin.com/GA/Atlanta/1101-Juniper-St-NE-30309/unit-1221/home/24664213",
-  "address": "1101 Juniper St NE #1221, Atlanta, GA 30309",
-  "price": 390056,
-  "beds": 2,
-  "baths": 2,
-  "sqft": 1169,
-  "lotSizeAcres": 0.03,
-  "yearBuilt": 1999,
-  "propertyType": "Condo",
-  "hoaMonthly": 615,
-  "coords": {
-   "lat": 33.7847688,
-   "lng": -84.3818581
-  },
-  "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.7847688,-84.3818581&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.7847688,-84.3818581&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "planSearch": {
-    "at": "2026-09-21T20:01:22.377Z",
-    "outcome": "error",
-    "note": "The page loaded but no gallery images could be found in it."
-   }
-  },
-  "neighborhood": {
-   "diversityIndex": 0.5013376237463564,
-   "whitePct": 68.03535785571714,
-   "southAsianPct": 1.6538351867693184,
-   "censusTract": "Census Tract 11.01 (13121001101)",
-   "schoolRating": 9,
-   "blackPct": 13.287710293698318,
-   "asianPct": 5.018534359851725,
-   "hispanicPct": 12.432278300541775,
-   "otherPct": 1.2261191901910464
-  },
-  "geocodeQuality": "ROOFTOP",
-  "redfinEstimate": 390056,
-  "cooktopFuel": "unknown",
-  "cooktopEvidence": "The listing does not say what the range burns. Ask, or look at the photos.",
-  "notes": "Where we live now. Midtown. Half a block from Piedmont Park, 0.5 mi to Botanical Garden, one block from Colony Square and Arts Center MARTA.",
-  "addedAt": "2026-09-05T17:09:53.876Z",
-  "commute": {
-   "legs": [
-    {
-     "label": "Morning, leaving 8am",
-     "minutes": 40,
-     "freeFlowMinutes": 33,
-     "delayMinutes": 7
-    },
-    {
-     "label": "Evening, leaving 5pm",
-     "minutes": 61,
-     "freeFlowMinutes": 32,
-     "delayMinutes": 29
-    },
-    {
-     "label": "Off-peak, midday",
-     "minutes": 34,
-     "freeFlowMinutes": 33,
-     "delayMinutes": 1
-    }
-   ],
-   "miles": 25.6,
-   "worstMinutes": 61,
-   "trafficModelled": true,
-   "badDayMinutes": 90,
-   "note": "25.6 miles each way. The evening leg carries 29 minutes of traffic on top of the drive \u2014 that is the one that decides whether you are home for bedtime. On a bad day Google says 90 min. On the one drive you have actually timed, the real thing ran about a third over the typical figure, so read these as the optimistic end."
-  },
-  "nearby": {
-   "places": [
-    {
-     "name": "JuNi",
-     "category": "Food & coffee",
-     "type": "japanese restaurant",
-     "metres": 64,
-     "walkMinutes": 1
-    },
-    {
-     "name": "STK Steakhouse",
-     "category": "Food & coffee",
-     "type": "steak house",
-     "metres": 121,
-     "walkMinutes": 2
-    },
-    {
-     "name": "Larakin",
-     "category": "Food & coffee",
-     "type": "coffee shop",
-     "metres": 125,
-     "walkMinutes": 2
-    },
-    {
-     "name": "millionmile greenway",
-     "category": "Parks & playgrounds",
-     "type": "park",
-     "metres": 155,
-     "walkMinutes": 2
-    },
-    {
-     "name": "10th Street Dog Park",
-     "category": "Parks & playgrounds",
-     "type": "dog park",
-     "metres": 317,
-     "walkMinutes": 5
-    },
-    {
-     "name": "Jack Guynn Plaza",
-     "category": "Parks & playgrounds",
-     "type": "park",
-     "metres": 337,
-     "walkMinutes": 5
-    },
-    {
-     "name": "Alliance Community Pharmacy",
-     "category": "Everyday errands",
-     "type": "pharmacy",
-     "metres": 290,
-     "walkMinutes": 4
-    },
-    {
-     "name": "Midtown Market",
-     "category": "Everyday errands",
-     "type": "convenience store",
-     "metres": 376,
-     "walkMinutes": 6
-    },
-    {
-     "name": "Savi Provisions - Midtown",
-     "category": "Everyday errands",
-     "type": "grocery",
-     "metres": 477,
-     "walkMinutes": 7
-    },
-    {
-     "name": "Midtown",
-     "category": "Transit",
-     "type": "rail",
-     "metres": 582,
-     "walkMinutes": 9
-    },
-    {
-     "name": "West Peachtree St at Peachtree Pl",
-     "category": "Transit",
-     "type": "bus",
-     "metres": 684,
-     "walkMinutes": 10
-    },
-    {
-     "name": "Arts Center",
-     "category": "Transit",
-     "type": "rail",
-     "metres": 701,
-     "walkMinutes": 11
-    }
-   ],
-   "nearestParkMetres": 155,
-   "note": "Straight-line distance, so a real walk is longer \u2014 and longer still if a big road sits between you and it."
-  },
-  "basement": "unknown",
-  "basementEvidence": "The listing does not mention a basement either way.",
-  "status": "off market",
-  "archivedAt": "2026-09-21T20:01:05.755Z",
-  "sashes": [
-   "OFF MARKET"
-  ],
-  "has3dTour": false,
-  "isHot": false,
-  "isNewConstruction": false,
-  "readiness": "move-in ready",
-  "openHouses": [],
-  "openHousesCheckedAt": "2026-09-21T20:01:22.463Z",
-  "sewer": "public",
-  "sewerEvidence": "\u2026er Source: Public Electric: 110 Volts Sewer: Public Sewer Utilities: Cable Available, Electricity Available, Phone Available, Sewe\u2026",
-  "exit": {
-   "number": 0,
-   "name": "well off GA-400, nearest is exit 7",
-   "miles": 16.9
-  },
-  "anchors": [
-   {
-    "key": "home",
-    "label": "Midtown (home now)",
-    "miles": 0,
-    "note": "Where you live. The distance you would be adding to every trip back into the city.",
-    "peakMinutes": 0,
-    "freeMinutes": 0
-   },
-   {
-    "key": "work",
-    "label": "Office",
-    "miles": 26,
-    "note": "North Point Parkway.",
-    "peakMinutes": 63,
-    "freeMinutes": 34
-   },
-   {
-    "key": "avalon",
-    "label": "Avalon",
-    "miles": 23.6,
-    "note": "You said you never go. That is what makes it a good ruler \u2014 it marks where the built-up part of Alpharetta ends.",
-    "peakMinutes": 55,
-    "freeMinutes": 33
-   },
-   {
-    "key": "halcyon",
-    "label": "Halcyon",
-    "miles": 28,
-    "note": "The northern equivalent. Past Halcyon is properly out.",
-    "peakMinutes": 63,
-    "freeMinutes": 36
-   }
-  ],
-  "priceHistory": {
-   "events": [
-    {
-     "date": "2019-05-09",
-     "event": "Sold (Public Records)",
-     "price": 368000
-    },
-    {
-     "date": "2019-05-07",
-     "event": "Sold",
-     "price": 368000
-    },
-    {
-     "date": "2019-03-27",
-     "event": "Pending"
-    },
-    {
-     "date": "2019-03-14",
-     "event": "Price Changed",
-     "price": 374900
-    },
-    {
-     "date": "2019-02-28",
-     "event": "Listed",
-     "price": 379900
-    },
-    {
-     "date": "2012-06-07",
-     "event": "Sold (Public Records)",
-     "price": 218000
-    },
-    {
-     "date": "2012-06-04",
-     "event": "Listing Removed"
-    },
-    {
-     "date": "2012-05-30",
-     "event": "Sold",
-     "price": 218000
-    },
-    {
-     "date": "2012-04-17",
-     "event": "Pending"
-    },
-    {
-     "date": "2012-04-03",
-     "event": "Contingent"
-    },
-    {
-     "date": "2012-03-10",
-     "event": "Price Changed",
-     "price": 225900
-    },
-    {
-     "date": "2012-01-26",
-     "event": "Listed",
-     "price": 232500
-    },
-    {
-     "date": "2002-03-20",
-     "event": "Sold (Public Records)",
-     "price": 228000
-    }
-   ],
-   "cutCount": 0,
-   "summary": "No price changes recorded."
-  },
-  "ageRestricted": false
- },
- {
   "id": "c65a572d",
   "sourceUrl": "https://www.redfin.com/GA/Cumming/6035-Ashborough-Park-30040/home/168004838",
   "address": "6035 Ashborough Park, Cumming, GA 30040",
@@ -1084,8 +802,8 @@
    "lng": -84.2120006
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2001465,-84.2120006&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2001465,-84.2120006&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2001465,-84.2120006&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2001465,-84.2120006&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T18:08:45.654Z",
     "outcome": "none-in-listing",
@@ -1342,8 +1060,8 @@
    "lng": -84.2339391
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.141467,-84.2339391&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.141467,-84.2339391&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.141467,-84.2339391&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.141467,-84.2339391&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T18:08:52.841Z",
     "outcome": "none-in-listing",
@@ -1613,8 +1331,8 @@
    "lng": -84.2539936
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2102157,-84.2539936&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2102157,-84.2539936&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2102157,-84.2539936&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2102157,-84.2539936&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/803/7832803_48_0.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/803/7832803_49_0.jpg",
@@ -1807,7 +1525,7 @@
  },
  {
   "id": "684c0665",
-  "sourceUrl": "https://www.redfin.com/GA/Milton/3309-Bethany-Bnd-30004/home/24644211?utm_source=myredfin&utm_medium=email&utm_campaign=rentals_recommendation&riftinfo=ZXY9ZW1haWwmbD03NDA1ODI1JnA9cmVudGFsX3VwZGF0ZXNfcmVjb21tZW5kYXRpb25zX2luc3RhbnQmYT1jbGljayZzPXJlY29tbWVuZGF0aW9ucyZ0PWltYWdlJmVtYWlsX2lkPTc0MDU4MjVfMTc4NTc5NDgwNF8xNyZsaWxyX3Njb3JlPTAuNjIwMDAwMDA0NzY4MzcxNiZsb2dpbl9pZD03NDA1ODI1JnBvc2l0aW9uPTAmcHJvcGVydHlfaWQ9MjQ2NDQyMTEmcmVudGFsX2lkPTRlZWY3NWEyLTE5YzctNDFkMy1iMjJmLWNkODkzMzZmOTdmYiZ6PTA%3D#neighborhood",
+  "sourceUrl": "https://www.redfin.com/GA/Milton/3309-Bethany-Bnd-30004/home/24644211",
   "address": "3309 Bethany Bend, Alpharetta, GA 30004, USA",
   "price": 0,
   "beds": 4,
@@ -1822,8 +1540,8 @@
    "lng": -84.2629697
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1128407,-84.2629697&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1128407,-84.2629697&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1128407,-84.2629697&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1128407,-84.2629697&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-21T20:01:22.381Z",
     "outcome": "error",
@@ -2167,8 +1885,8 @@
    "lng": -84.2636003
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254928,-84.2636003&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254928,-84.2636003&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254928,-84.2636003&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254928,-84.2636003&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-12T06:20:05.323Z",
     "outcome": "none-in-listing",
@@ -2426,8 +2144,8 @@
    "lng": -84.3311666
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871473,-84.3311666&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871473,-84.3311666&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871473,-84.3311666&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871473,-84.3311666&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:43:57.723Z",
     "outcome": "none-in-listing",
@@ -2642,8 +2360,8 @@
    "lng": -84.29003159999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0253551,-84.29003159999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0253551,-84.29003159999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0253551,-84.29003159999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0253551,-84.29003159999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:43:59.298Z",
     "outcome": "none-in-listing",
@@ -2913,8 +2631,8 @@
    "lng": -84.264787
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1252037,-84.264787&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1252037,-84.264787&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1252037,-84.264787&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1252037,-84.264787&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/446/7780446_57_3.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/446/7780446_58_3.jpg",
@@ -3198,8 +2916,8 @@
    "lng": -84.28250899999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0806615,-84.28250899999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0806615,-84.28250899999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0806615,-84.28250899999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0806615,-84.28250899999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:44:03.059Z",
     "outcome": "none-in-listing",
@@ -3457,8 +3175,8 @@
    "lng": -84.2771918
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1993757,-84.2771918&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1993757,-84.2771918&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1993757,-84.2771918&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1993757,-84.2771918&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/861/7790861_92_D.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/861/7790861_93_D.jpg",
@@ -3731,8 +3449,8 @@
    "lng": -84.33388479999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431311,-84.33388479999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431311,-84.33388479999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431311,-84.33388479999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431311,-84.33388479999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:44:24.931Z",
     "outcome": "none-in-listing",
@@ -4000,8 +3718,8 @@
    "lng": -84.23405389999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1221777,-84.23405389999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1221777,-84.23405389999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1221777,-84.23405389999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1221777,-84.23405389999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/613/7790613_48_0.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/613/7790613_49_0.jpg"
@@ -4303,8 +4021,8 @@
    "lng": -84.3433324
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0773826,-84.3433324&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0773826,-84.3433324&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0773826,-84.3433324&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0773826,-84.3433324&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:44:40.329Z",
     "outcome": "none-in-listing",
@@ -4548,8 +4266,8 @@
    "lng": -84.1197541
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2022764,-84.1197541&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2022764,-84.1197541&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2022764,-84.1197541&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2022764,-84.1197541&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/986/7828986_51_0.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/986/7828986_52_0.jpg"
@@ -4820,8 +4538,8 @@
    "lng": -84.117503
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2328394,-84.117503&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2328394,-84.117503&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2328394,-84.117503&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2328394,-84.117503&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:44:52.790Z",
     "outcome": "none-in-listing",
@@ -5046,8 +4764,8 @@
    "lng": -84.14679389999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1473286,-84.14679389999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1473286,-84.14679389999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1473286,-84.14679389999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1473286,-84.14679389999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:00.795Z",
     "outcome": "none-in-listing",
@@ -5268,8 +4986,8 @@
    "lng": -84.1427152
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1457868,-84.1427152&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1457868,-84.1427152&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1457868,-84.1427152&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1457868,-84.1427152&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:08.321Z",
     "outcome": "none-in-listing",
@@ -5450,8 +5168,8 @@
    "lng": -84.2074998
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871584,-84.2074998&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871584,-84.2074998&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871584,-84.2074998&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0871584,-84.2074998&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:09.235Z",
     "outcome": "none-in-listing",
@@ -5744,8 +5462,8 @@
    "lng": -84.1985383
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254447,-84.1985383&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254447,-84.1985383&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254447,-84.1985383&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1254447,-84.1985383&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:23.247Z",
     "outcome": "none-in-listing",
@@ -5974,8 +5692,8 @@
    "lng": -84.181725
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2545829,-84.181725&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2545829,-84.181725&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2545829,-84.181725&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2545829,-84.181725&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:39.493Z",
     "outcome": "none-in-listing",
@@ -6161,8 +5879,8 @@
    "lng": -84.12145989999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1460158,-84.12145989999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1460158,-84.12145989999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1460158,-84.12145989999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1460158,-84.12145989999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-12T15:40:37.729Z",
     "outcome": "none-in-listing",
@@ -6406,7 +6124,7 @@
  },
  {
   "id": "af093dbd",
-  "sourceUrl": "https://www.redfin.com/GA/Cumming/3070-Blackstock-Dr-30041/home/24310317?utm_source=myredfin&utm_medium=email&utm_campaign=listings_update&riftinfo=ZXY9ZW1haWwmbD03NDA1ODI1JnA9bGlzdGluZ191cGRhdGVzX2RhaWx5XzI0JmE9Y2xpY2smcz1mYXZvcml0ZXMmdD1pbWFnZSZlbWFpbF9pZD03NDA1ODI1XzE3ODc5OTQ2MDdfMTQmbGlzdGluZ19pZD0yMjA4MTk4NjQmcG9zaXRpb25fbnVtYmVyPTAmcHJvcGVydHlfaWQ9MjQzMTAzMTcmdXBkYXRlX3R5cGU9MyZ6PTA%3D",
+  "sourceUrl": "https://www.redfin.com/GA/Cumming/3070-Blackstock-Dr-30041/home/24310317",
   "address": "3070 Blackstock Dr, Cumming, GA 30041, USA",
   "price": 750000,
   "beds": 6,
@@ -6421,8 +6139,8 @@
    "lng": -84.1176267
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1426283,-84.1176267&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1426283,-84.1176267&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1426283,-84.1176267&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1426283,-84.1176267&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-12T15:41:57.500Z",
     "outcome": "none-in-listing",
@@ -6641,7 +6359,7 @@
  },
  {
   "id": "b59f07d5",
-  "sourceUrl": "https://www.redfin.com/GA/Alpharetta/330-Lockwood-Pl-30004/home/24255167?utm_source=myredfin&utm_medium=email&utm_campaign=instant_listings_update&riftinfo=ZXY9ZW1haWwmbD03NDA1ODI1JnA9bGlzdGluZ191cGRhdGVzX2luc3RhbnRfMTUmYT1jbGljayZzPXNhdmVkX3NlYXJjaCZ0PWltYWdlJmVtYWlsX2lkPTc0MDU4MjVfMTc4Nzc5OTAzOV8yJmxpc3RpbmdfaWQ9MjIyODcyNDc5JnBvc2l0aW9uX251bWJlcj0wJnByb3BlcnR5X2lkPTI0MjU1MTY3JnNhdmVkX3NlYXJjaF9pZD0xMDI3NzY2MDEmdXBkYXRlX3R5cGU9MSZ6PTA%3D",
+  "sourceUrl": "https://www.redfin.com/GA/Alpharetta/330-Lockwood-Pl-30004/home/24255167",
   "address": "330 Lockwood Pl, Alpharetta, GA 30004, USA",
   "price": 675000,
   "beds": 4,
@@ -6656,8 +6374,8 @@
    "lng": -84.2161386
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1423765,-84.2161386&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1423765,-84.2161386&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1423765,-84.2161386&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1423765,-84.2161386&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:56.203Z",
     "outcome": "none-in-listing",
@@ -6874,8 +6592,8 @@
    "lng": -84.1837674
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0912645,-84.1837674&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0912645,-84.1837674&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0912645,-84.1837674&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0912645,-84.1837674&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:45:54.586Z",
     "outcome": "none-in-listing",
@@ -7145,8 +6863,8 @@
    "lng": -84.222225
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2420578,-84.222225&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2420578,-84.222225&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2420578,-84.222225&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2420578,-84.222225&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/740/7819740_1_7.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/740/7819740_2_7.jpg"
@@ -7386,8 +7104,8 @@
    "lng": -84.23619459999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.069806,-84.23619459999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.069806,-84.23619459999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.069806,-84.23619459999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.069806,-84.23619459999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-06T15:21:59.661Z",
     "outcome": "none-in-listing",
@@ -7826,8 +7544,8 @@
    "lng": -84.06911
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.201112,-84.06911&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.201112,-84.06911&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.201112,-84.06911&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.201112,-84.06911&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:46:17.036Z",
     "outcome": "none-in-listing",
@@ -8087,8 +7805,8 @@
    "lng": -84.19073949999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1415044,-84.19073949999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1415044,-84.19073949999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1415044,-84.19073949999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1415044,-84.19073949999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:46:17.044Z",
     "outcome": "none-in-listing",
@@ -8331,8 +8049,8 @@
    "lng": -84.1927457
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1930977,-84.1927457&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1930977,-84.1927457&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1930977,-84.1927457&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1930977,-84.1927457&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/673/7804673_8_0.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/673/7804673_9_0.jpg"
@@ -8600,8 +8318,8 @@
    "lng": -84.2408643
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2319361,-84.2408643&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2319361,-84.2408643&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2319361,-84.2408643&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2319361,-84.2408643&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-12T15:42:21.365Z",
     "outcome": "none-in-listing",
@@ -8868,8 +8586,8 @@
    "lng": -84.21057100000002
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2046447,-84.21057100000002&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2046447,-84.21057100000002&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2046447,-84.21057100000002&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2046447,-84.21057100000002&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-12T15:33:23.073Z",
     "outcome": "none-in-listing",
@@ -9140,8 +8858,8 @@
    "lng": -84.236064
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.25288200000001,-84.236064&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.25288200000001,-84.236064&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.25288200000001,-84.236064&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.25288200000001,-84.236064&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/815/7819815_65_2.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/815/7819815_66_2.jpg"
@@ -9402,8 +9120,8 @@
    "lng": -84.19982569999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1418891,-84.19982569999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1418891,-84.19982569999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1418891,-84.19982569999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1418891,-84.19982569999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:46:46.920Z",
     "outcome": "none-in-listing",
@@ -9641,8 +9359,8 @@
    "lng": -84.23137469999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.16294269999999,-84.23137469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.16294269999999,-84.23137469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.16294269999999,-84.23137469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.16294269999999,-84.23137469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:46:40.244Z",
     "outcome": "none-in-listing",
@@ -9910,8 +9628,8 @@
    "lng": -84.2528451
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2115739,-84.2528451&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2115739,-84.2528451&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2115739,-84.2528451&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2115739,-84.2528451&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:46:50.406Z",
     "outcome": "none-in-listing",
@@ -10223,8 +9941,8 @@
    "lng": -84.22544649999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1614153,-84.22544649999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1614153,-84.22544649999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1614153,-84.22544649999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1614153,-84.22544649999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/129/7807129_67_1.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/129/7807129_68_1.jpg"
@@ -10468,8 +10186,8 @@
    "lng": -84.2221435
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2222165,-84.2221435&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2222165,-84.2221435&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2222165,-84.2221435&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2222165,-84.2221435&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:04.375Z",
     "outcome": "none-in-listing",
@@ -10685,8 +10403,8 @@
    "lng": -84.1243063
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1382476,-84.1243063&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1382476,-84.1243063&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1382476,-84.1243063&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1382476,-84.1243063&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/368/7810368_57_4.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/368/7810368_58_4.jpg",
@@ -10889,8 +10607,8 @@
    "lng": -84.18273359999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1776185,-84.18273359999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1776185,-84.18273359999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1776185,-84.18273359999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1776185,-84.18273359999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:12.690Z",
     "outcome": "none-in-listing",
@@ -11129,8 +10847,8 @@
    "lng": -84.1764177
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1981652,-84.1764177&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1981652,-84.1764177&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1981652,-84.1764177&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1981652,-84.1764177&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:16.607Z",
     "outcome": "none-in-listing",
@@ -11335,8 +11053,8 @@
    "lng": -84.2111034
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1331048,-84.2111034&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1331048,-84.2111034&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1331048,-84.2111034&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1331048,-84.2111034&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/144/7741144_48_3.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/144/7741144_49_3.jpg"
@@ -11575,8 +11293,8 @@
    "lng": -84.35014579999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0873863,-84.35014579999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0873863,-84.35014579999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0873863,-84.35014579999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0873863,-84.35014579999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:34.182Z",
     "outcome": "none-in-listing",
@@ -11878,8 +11596,8 @@
    "lng": -84.2547592
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2274655,-84.2547592&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2274655,-84.2547592&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2274655,-84.2547592&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2274655,-84.2547592&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:33.760Z",
     "outcome": "none-in-listing",
@@ -12101,8 +11819,8 @@
    "lng": -84.1783401
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1767501,-84.1783401&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1767501,-84.1783401&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1767501,-84.1783401&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1767501,-84.1783401&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:47.913Z",
     "outcome": "none-in-listing",
@@ -12375,8 +12093,8 @@
    "lng": -84.1783505
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1779836,-84.1783505&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1779836,-84.1783505&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1779836,-84.1783505&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1779836,-84.1783505&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:47:45.786Z",
     "outcome": "none-in-listing",
@@ -12656,8 +12374,8 @@
    "lng": -84.2603709
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1887923,-84.2603709&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1887923,-84.2603709&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1887923,-84.2603709&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1887923,-84.2603709&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T21:01:17.962Z",
     "outcome": "none-in-listing",
@@ -12848,8 +12566,8 @@
    "lng": -84.2399398
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.192496,-84.2399398&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.192496,-84.2399398&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.192496,-84.2399398&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.192496,-84.2399398&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/126/7836126_63_0.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/126/7836126_64_0.jpg"
@@ -13067,8 +12785,8 @@
    "lng": -84.239817
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.176609,-84.239817&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.176609,-84.239817&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.176609,-84.239817&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.176609,-84.239817&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:48:06.543Z",
     "outcome": "none-in-listing",
@@ -13234,7 +12952,7 @@
  },
  {
   "id": "eb02b773",
-  "sourceUrl": "https://www.redfin.com/GA/Cumming/6455-Maddux-Path-30028/home/188658474?utm_source=myredfin&utm_medium=email&utm_campaign=listings_update&riftinfo=ZXY9ZW1haWwmbD03NDA1ODI1JnA9bGlzdGluZ191cGRhdGVzX2RhaWx5XzI0JmE9Y2xpY2smcz1mYXZvcml0ZXMmdD1pbWFnZSZlbWFpbF9pZD03NDA1ODI1XzE3ODc4MjIxNDNfMTQmbGlzdGluZ19pZD0yMTY3NjQ5MjcmcG9zaXRpb25fbnVtYmVyPTAmcHJvcGVydHlfaWQ9MTg4NjU4NDc0JnVwZGF0ZV90eXBlPTMmej0w",
+  "sourceUrl": "https://www.redfin.com/GA/Cumming/6455-Maddux-Path-30028/home/188658474",
   "address": "6475 Maddux Path, Cumming, GA 30040, USA",
   "price": 1285000,
   "beds": 5,
@@ -13249,8 +12967,8 @@
    "lng": -84.1394953
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3165662,-84.1394953&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3165662,-84.1394953&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3165662,-84.1394953&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3165662,-84.1394953&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:48:15.481Z",
     "outcome": "none-in-listing",
@@ -13468,8 +13186,8 @@
    "lng": -84.2266641
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1725182,-84.2266641&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1725182,-84.2266641&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1725182,-84.2266641&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1725182,-84.2266641&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:48:33.367Z",
     "outcome": "none-in-listing",
@@ -13736,8 +13454,8 @@
    "lng": -84.20464609999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1597232,-84.20464609999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1597232,-84.20464609999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1597232,-84.20464609999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1597232,-84.20464609999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-05T19:48:36.708Z",
     "outcome": "none-in-listing",
@@ -13939,8 +13657,8 @@
    "lng": -84.04802749999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111044,-84.04802749999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111044,-84.04802749999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111044,-84.04802749999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111044,-84.04802749999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "floorPlan": "https://ssl.cdn-redfin.com/photo/82/bigphoto/663/7829663_48_0.jpg",
    "floorPlanExtra": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/663/7829663_49_0.jpg"
@@ -14157,8 +13875,8 @@
    "lng": -84.2555794
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2275338,-84.2555794&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2275338,-84.2555794&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2275338,-84.2555794&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2275338,-84.2555794&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/595/bigphoto/991/916616DD9991_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/595/bigphoto/991/916616DD9991_1_0.jpg",
@@ -14327,8 +14045,8 @@
    "lng": -84.07019079999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1967914,-84.07019079999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1967914,-84.07019079999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1967914,-84.07019079999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1967914,-84.07019079999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/225/7830225_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/225/7830225_1_0.jpg",
@@ -14503,8 +14221,8 @@
    "lng": -84.14636
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1919091,-84.14636&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1919091,-84.14636&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1919091,-84.14636&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1919091,-84.14636&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/595/bigphoto/B8B/29D075F24B8B_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/595/bigphoto/B8B/29D075F24B8B_1_0.jpg",
@@ -14702,8 +14420,8 @@
    "lng": -84.2550643
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2263479,-84.2550643&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2263479,-84.2550643&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2263479,-84.2550643&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2263479,-84.2550643&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/595/bigphoto/62D/3E310F81562D_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/595/bigphoto/62D/3E310F81562D_1_0.jpg",
@@ -14872,8 +14590,8 @@
    "lng": -84.254707
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2288026,-84.254707&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2288026,-84.254707&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2288026,-84.254707&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2288026,-84.254707&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/595/bigphoto/E79/8E16965EBE79_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/595/bigphoto/E79/8E16965EBE79_1_0.jpg",
@@ -15037,8 +14755,8 @@
    "lng": -84.1877042
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2657249,-84.1877042&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2657249,-84.1877042&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2657249,-84.1877042&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2657249,-84.1877042&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/481/7830481_1_6.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/481/7830481_1_6.jpg",
@@ -15227,8 +14945,8 @@
    "lng": -84.22224109999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2406719,-84.22224109999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2406719,-84.22224109999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2406719,-84.22224109999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2406719,-84.22224109999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/466/7829466_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/466/7829466_1_0.jpg",
@@ -15455,8 +15173,8 @@
    "lng": -84.11755649999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.236492,-84.11755649999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.236492,-84.11755649999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.236492,-84.11755649999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.236492,-84.11755649999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/718/7840718_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/718/7840718_1_0.jpg",
@@ -15637,8 +15355,8 @@
    "lng": -84.06961299999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.205282,-84.06961299999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.205282,-84.06961299999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.205282,-84.06961299999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.205282,-84.06961299999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/063/7831063_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/063/7831063_1_1.jpg",
@@ -15828,8 +15546,8 @@
    "lng": -84.19216899999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.107479,-84.19216899999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.107479,-84.19216899999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.107479,-84.19216899999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.107479,-84.19216899999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/404/7826404_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/404/7826404_1_0.jpg",
@@ -16113,8 +15831,8 @@
    "lng": -84.201611
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.208234,-84.201611&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.208234,-84.201611&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.208234,-84.201611&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.208234,-84.201611&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/951/7784951_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/951/7784951_1_5.jpg",
@@ -16340,8 +16058,8 @@
    "lng": -84.1996734
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2083011,-84.1996734&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2083011,-84.1996734&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2083011,-84.1996734&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2083011,-84.1996734&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/949/7784949_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/949/7784949_1_3.jpg",
@@ -16594,8 +16312,8 @@
    "lng": -84.1331599
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1556633,-84.1331599&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1556633,-84.1331599&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1556633,-84.1331599&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1556633,-84.1331599&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/449/7805449_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/449/7805449_1_3.jpg",
@@ -16811,8 +16529,8 @@
    "lng": -84.2602138
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1885739,-84.2602138&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1885739,-84.2602138&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1885739,-84.2602138&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1885739,-84.2602138&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/426/7811426_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/426/7811426_1_0.jpg",
@@ -17006,8 +16724,8 @@
    "lng": -84.053281
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.229624,-84.053281&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.229624,-84.053281&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.229624,-84.053281&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.229624,-84.053281&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/624/7709624_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/624/7709624_1_3.jpg",
@@ -17197,8 +16915,8 @@
    "lng": -84.20030640000002
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.208771,-84.20030640000002&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.208771,-84.20030640000002&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.208771,-84.20030640000002&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.208771,-84.20030640000002&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/679/7558679_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/679/7558679_1_3.jpg",
@@ -17417,8 +17135,8 @@
    "lng": -84.18929469999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/366/7796366_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/366/7796366_1_0.jpg",
@@ -17664,8 +17382,8 @@
    "lng": -84.18929469999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/210/7804210_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/210/7804210_1_0.jpg",
@@ -17909,8 +17627,8 @@
    "lng": -84.18929469999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1922162,-84.18929469999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/374/7796374_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/374/7796374_1_0.jpg",
@@ -18158,8 +17876,8 @@
    "lng": -84.16693169999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2788715,-84.16693169999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2788715,-84.16693169999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2788715,-84.16693169999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2788715,-84.16693169999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/055/7788055_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/055/7788055_1_0.jpg",
@@ -18342,8 +18060,8 @@
    "lng": -84.25030029999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2774346,-84.25030029999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2774346,-84.25030029999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2774346,-84.25030029999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2774346,-84.25030029999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/807/7809807_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/807/7809807_1_0.jpg",
@@ -18549,8 +18267,8 @@
    "lng": -84.0663435
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3065123,-84.0663435&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3065123,-84.0663435&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3065123,-84.0663435&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3065123,-84.0663435&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/418/7830418_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/418/7830418_1_0.jpg",
@@ -18748,8 +18466,8 @@
    "lng": -84.185459
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2557959,-84.185459&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2557959,-84.185459&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2557959,-84.185459&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2557959,-84.185459&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/559/7754559_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/559/7754559_1_2.jpg",
@@ -18960,8 +18678,8 @@
    "lng": -84.2059518
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2055416,-84.2059518&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2055416,-84.2059518&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2055416,-84.2059518&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2055416,-84.2059518&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/336/7807336_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/336/7807336_1_5.jpg",
@@ -19217,8 +18935,8 @@
    "lng": -84.3489431
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0889603,-84.3489431&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0889603,-84.3489431&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0889603,-84.3489431&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0889603,-84.3489431&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/563/7832563_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/563/7832563_1_0.jpg",
@@ -19473,8 +19191,8 @@
    "lng": -84.21846169999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0945943,-84.21846169999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0945943,-84.21846169999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0945943,-84.21846169999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0945943,-84.21846169999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-06T05:14:42.948Z",
     "outcome": "none-in-listing",
@@ -19701,8 +19419,8 @@
    "lng": -84.0843651
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2942504,-84.0843651&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2942504,-84.0843651&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2942504,-84.0843651&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2942504,-84.0843651&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/255/7746255_1_6.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/255/7746255_1_6.jpg",
@@ -19902,8 +19620,8 @@
    "lng": -84.0841197
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2940938,-84.0841197&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2940938,-84.0841197&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2940938,-84.0841197&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2940938,-84.0841197&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/397/7746397_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/397/7746397_1_1.jpg",
@@ -20126,8 +19844,8 @@
    "lng": -84.02074698
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.28103268,-84.02074698&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.28103268,-84.02074698&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.28103268,-84.02074698&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.28103268,-84.02074698&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/631/7790631_1_A.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/631/7790631_1_A.jpg",
@@ -20337,8 +20055,8 @@
    "lng": -84.1411837
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3090753,-84.1411837&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3090753,-84.1411837&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3090753,-84.1411837&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3090753,-84.1411837&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/804/7757804_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/804/7757804_1_1.jpg",
@@ -20564,8 +20282,8 @@
    "lng": -84.1456031
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.309148,-84.1456031&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.309148,-84.1456031&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.309148,-84.1456031&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.309148,-84.1456031&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/894/7821894_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/894/7821894_1_0.jpg",
@@ -20778,8 +20496,8 @@
    "lng": -84.14138799999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3095898,-84.14138799999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3095898,-84.14138799999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3095898,-84.14138799999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3095898,-84.14138799999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/964/7737964_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/964/7737964_1_1.jpg",
@@ -21012,8 +20730,8 @@
    "lng": -84.1409465
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3052483,-84.1409465&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3052483,-84.1409465&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.3052483,-84.1409465&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.3052483,-84.1409465&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/891/7791891_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/891/7791891_1_3.jpg",
@@ -21281,8 +20999,8 @@
    "lng": -84.13294692
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.28887559,-84.13294692&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.28887559,-84.13294692&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.28887559,-84.13294692&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.28887559,-84.13294692&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/218/7824218_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/218/7824218_1_3.jpg",
@@ -21552,8 +21270,8 @@
    "lng": -84.235697
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.252517,-84.235697&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.252517,-84.235697&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.252517,-84.235697&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.252517,-84.235697&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/423/7818423_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/423/7818423_1_3.jpg",
@@ -21802,8 +21520,8 @@
    "lng": -84.23652
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.252264,-84.23652&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.252264,-84.23652&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.252264,-84.23652&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.252264,-84.23652&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/718/7825718_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/718/7825718_1_0.jpg",
@@ -22064,8 +21782,8 @@
    "lng": -84.235389
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.251978,-84.235389&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.251978,-84.235389&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.251978,-84.235389&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.251978,-84.235389&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/576/7818576_1_8.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/576/7818576_1_8.jpg",
@@ -22323,8 +22041,8 @@
    "lng": -84.21646799999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.272474,-84.21646799999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.272474,-84.21646799999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.272474,-84.21646799999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.272474,-84.21646799999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/970/7806970_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/970/7806970_1_1.jpg",
@@ -22532,8 +22250,8 @@
    "lng": -84.216374
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.272124,-84.216374&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.272124,-84.216374&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.272124,-84.216374&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.272124,-84.216374&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/539/7795539_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/539/7795539_1_1.jpg",
@@ -22728,8 +22446,8 @@
    "lng": -84.216634
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.272817,-84.216634&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.272817,-84.216634&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.272817,-84.216634&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.272817,-84.216634&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/595/bigphoto/473/03A6CE94D473_1_7.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/595/bigphoto/473/03A6CE94D473_1_7.jpg",
@@ -22928,8 +22646,8 @@
    "lng": -84.104467
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.180507,-84.104467&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.180507,-84.104467&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.180507,-84.104467&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.180507,-84.104467&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/796/7741796_1_7.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/796/7741796_1_7.jpg",
@@ -23139,8 +22857,8 @@
    "lng": -84.0835797
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2247867,-84.0835797&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2247867,-84.0835797&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2247867,-84.0835797&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2247867,-84.0835797&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/515/7769515_1_8.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/515/7769515_1_8.jpg",
@@ -23393,8 +23111,8 @@
    "lng": -84.21635839999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1594865,-84.21635839999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1594865,-84.21635839999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1594865,-84.21635839999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1594865,-84.21635839999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/801/7801801_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/801/7801801_1_0.jpg",
@@ -23589,8 +23307,8 @@
    "lng": -84.20676689999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1510993,-84.20676689999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1510993,-84.20676689999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1510993,-84.20676689999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1510993,-84.20676689999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/485/7779485_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/485/7779485_1_0.jpg",
@@ -23791,8 +23509,8 @@
    "lng": -84.1188665
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1466061,-84.1188665&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1466061,-84.1188665&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1466061,-84.1188665&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1466061,-84.1188665&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-06T15:02:16.522Z",
     "outcome": "none-in-listing",
@@ -24028,8 +23746,8 @@
    "lng": -84.25319569999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0417917,-84.25319569999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0417917,-84.25319569999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0417917,-84.25319569999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0417917,-84.25319569999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/570/7828570_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/570/7828570_1_1.jpg",
@@ -24278,8 +23996,8 @@
    "lng": -84.05013101
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.23109627,-84.05013101&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.23109627,-84.05013101&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.23109627,-84.05013101&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.23109627,-84.05013101&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/994/7743994_1_7.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/994/7743994_1_7.jpg",
@@ -24478,8 +24196,8 @@
    "lng": -84.14019259999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:06.091Z",
     "outcome": "none-in-listing",
@@ -24719,8 +24437,8 @@
    "lng": -84.13275146484375
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.28885269165039,-84.13275146484375&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.28885269165039,-84.13275146484375&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.28885269165039,-84.13275146484375&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.28885269165039,-84.13275146484375&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:06:39.092Z",
     "outcome": "none-in-listing",
@@ -24930,8 +24648,8 @@
    "lng": -84.14019259999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:11.140Z",
     "outcome": "none-in-listing",
@@ -25204,8 +24922,8 @@
    "lng": -84.14019259999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:10.709Z",
     "outcome": "none-in-listing",
@@ -25468,8 +25186,8 @@
    "lng": -84.14019259999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2073196,-84.14019259999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:17.912Z",
     "outcome": "none-in-listing",
@@ -25712,8 +25430,8 @@
    "lng": -84.2491218
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1956786,-84.2491218&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1956786,-84.2491218&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1956786,-84.2491218&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1956786,-84.2491218&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:22.198Z",
     "outcome": "none-in-listing",
@@ -25942,8 +25660,8 @@
    "lng": -84.2163379
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2193583,-84.2163379&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2193583,-84.2163379&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2193583,-84.2163379&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2193583,-84.2163379&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:32.054Z",
     "outcome": "none-in-listing",
@@ -26146,8 +25864,8 @@
    "lng": -84.1121299
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.180388,-84.1121299&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.180388,-84.1121299&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.180388,-84.1121299&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.180388,-84.1121299&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:30.587Z",
     "outcome": "none-in-listing",
@@ -26400,8 +26118,8 @@
    "lng": -84.1656842
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1834851,-84.1656842&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1834851,-84.1656842&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1834851,-84.1656842&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1834851,-84.1656842&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:32.440Z",
     "outcome": "none-in-listing",
@@ -26578,8 +26296,8 @@
    "lng": -84.2822072
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2147025,-84.2822072&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2147025,-84.2822072&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2147025,-84.2822072&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2147025,-84.2822072&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/638/7824638_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/638/7824638_1_0.jpg",
@@ -26734,8 +26452,8 @@
    "lng": -84.196309
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.251491,-84.196309&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.251491,-84.196309&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.251491,-84.196309&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.251491,-84.196309&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:41.592Z",
     "outcome": "none-in-listing",
@@ -27059,8 +26777,8 @@
    "lng": -84.2041326
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1244355,-84.2041326&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1244355,-84.2041326&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1244355,-84.2041326&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1244355,-84.2041326&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T03:30:39.295Z",
     "outcome": "none-in-listing",
@@ -27253,8 +26971,8 @@
    "lng": -84.18855099999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.26574900000001,-84.18855099999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.26574900000001,-84.18855099999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.26574900000001,-84.18855099999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.26574900000001,-84.18855099999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-07T04:13:38.022Z",
     "outcome": "none-in-listing",
@@ -27404,8 +27122,8 @@
    "lng": -84.187477
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.264503,-84.187477&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.264503,-84.187477&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.264503,-84.187477&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.264503,-84.187477&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/463/7830463_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/463/7830463_1_2.jpg",
@@ -27606,8 +27324,8 @@
    "lng": -84.27931579999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2148579,-84.27931579999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2148579,-84.27931579999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2148579,-84.27931579999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2148579,-84.27931579999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-08T00:54:45.313Z",
     "outcome": "none-in-listing",
@@ -27850,8 +27568,8 @@
    "lng": -84.3771141
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.071012,-84.3771141&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.071012,-84.3771141&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.071012,-84.3771141&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.071012,-84.3771141&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-08T00:54:49.231Z",
     "outcome": "none-in-listing",
@@ -28095,8 +27813,8 @@
    "lng": -84.216421
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.206634,-84.216421&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.206634,-84.216421&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.206634,-84.216421&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.206634,-84.216421&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-08T00:54:56.748Z",
     "outcome": "none-in-listing",
@@ -28333,8 +28051,8 @@
    "lng": -84.35237599999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.07590200000001,-84.35237599999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.07590200000001,-84.35237599999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.07590200000001,-84.35237599999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.07590200000001,-84.35237599999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-08T00:54:48.358Z",
     "outcome": "none-in-listing",
@@ -28583,8 +28301,8 @@
    "lng": -84.15734499999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2667779,-84.15734499999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2667779,-84.15734499999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2667779,-84.15734499999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2667779,-84.15734499999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/755/7729755_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/755/7729755_1_2.jpg",
@@ -28788,8 +28506,8 @@
    "lng": -84.1203622
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1760747,-84.1203622&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1760747,-84.1203622&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1760747,-84.1203622&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1760747,-84.1203622&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/595/bigphoto/0D8/1E11B106C0D8_1_8.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/595/bigphoto/0D8/1E11B106C0D8_1_8.jpg",
@@ -28998,8 +28716,8 @@
    "lng": -84.2308783
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0849102,-84.2308783&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0849102,-84.2308783&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0849102,-84.2308783&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0849102,-84.2308783&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/163/7829163_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/163/7829163_1_5.jpg",
@@ -29315,8 +29033,8 @@
    "lng": -84.2356465
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1225144,-84.2356465&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1225144,-84.2356465&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1225144,-84.2356465&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1225144,-84.2356465&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/396/7814396_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/396/7814396_1_1.jpg",
@@ -29534,8 +29252,8 @@
    "lng": -84.2299788
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1191457,-84.2299788&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1191457,-84.2299788&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1191457,-84.2299788&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1191457,-84.2299788&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/101/7827101_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/101/7827101_1_0.jpg",
@@ -29807,8 +29525,8 @@
    "lng": -84.221238
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.109087,-84.221238&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.109087,-84.221238&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.109087,-84.221238&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.109087,-84.221238&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/352/7662352_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/352/7662352_1_0.jpg",
@@ -30122,8 +29840,8 @@
    "lng": -84.2028677
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1321962,-84.2028677&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1321962,-84.2028677&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1321962,-84.2028677&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1321962,-84.2028677&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/581/7781581_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/581/7781581_1_0.jpg",
@@ -30400,8 +30118,8 @@
    "lng": -84.208709
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.217366,-84.208709&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.217366,-84.208709&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.217366,-84.208709&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.217366,-84.208709&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/311/7835311_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/311/7835311_1_1.jpg",
@@ -30625,8 +30343,8 @@
    "lng": -84.1180474
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1990286,-84.1180474&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1990286,-84.1180474&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1990286,-84.1180474&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1990286,-84.1180474&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/399/7828399_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/399/7828399_1_2.jpg",
@@ -30861,8 +30579,8 @@
    "lng": -84.1874368
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1016297,-84.1874368&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1016297,-84.1874368&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1016297,-84.1874368&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1016297,-84.1874368&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/659/7831659_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/659/7831659_1_3.jpg",
@@ -31106,8 +30824,8 @@
    "lng": -84.2127331
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2043509,-84.2127331&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2043509,-84.2127331&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2043509,-84.2127331&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2043509,-84.2127331&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/888/7827888_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/888/7827888_1_2.jpg",
@@ -31410,8 +31128,8 @@
    "lng": -84.251235
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0442701,-84.251235&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0442701,-84.251235&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0442701,-84.251235&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0442701,-84.251235&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/681/7812681_1_4.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/681/7812681_1_4.jpg",
@@ -31726,8 +31444,8 @@
    "lng": -84.19628420000001
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0958919,-84.19628420000001&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0958919,-84.19628420000001&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0958919,-84.19628420000001&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0958919,-84.19628420000001&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/693/7815693_1_8.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/693/7815693_1_8.jpg",
@@ -32006,8 +31724,8 @@
    "lng": -84.2805721
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0853516,-84.2805721&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0853516,-84.2805721&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0853516,-84.2805721&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0853516,-84.2805721&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/327/7835327_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/327/7835327_1_0.jpg",
@@ -32296,8 +32014,8 @@
    "lng": -84.1956731
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0991762,-84.1956731&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0991762,-84.1956731&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0991762,-84.1956731&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0991762,-84.1956731&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/457/7836457_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/457/7836457_1_2.jpg",
@@ -32536,8 +32254,8 @@
    "lng": -84.1854319
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1102702,-84.1854319&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1102702,-84.1854319&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1102702,-84.1854319&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1102702,-84.1854319&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/282/7830282_1_7.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/282/7830282_1_7.jpg",
@@ -32771,8 +32489,8 @@
    "lng": -84.2123948
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.205901,-84.2123948&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.205901,-84.2123948&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.205901,-84.2123948&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.205901,-84.2123948&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/475/7819475_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/475/7819475_1_1.jpg",
@@ -33067,8 +32785,8 @@
    "lng": -84.12357089999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2154724,-84.12357089999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2154724,-84.12357089999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2154724,-84.12357089999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2154724,-84.12357089999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/237/7813237_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/237/7813237_1_0.jpg",
@@ -33294,8 +33012,8 @@
    "lng": -84.22085849999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1948761,-84.22085849999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1948761,-84.22085849999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1948761,-84.22085849999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1948761,-84.22085849999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/255/7838255_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/255/7838255_1_0.jpg",
@@ -33514,8 +33232,8 @@
    "lng": -84.0200713
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2811015,-84.0200713&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2811015,-84.0200713&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2811015,-84.0200713&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2811015,-84.0200713&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/253/7801253_1_6.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/253/7801253_1_6.jpg",
@@ -33717,8 +33435,8 @@
    "lng": -84.17753599999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1906614,-84.17753599999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1906614,-84.17753599999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1906614,-84.17753599999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1906614,-84.17753599999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/329/7760329_1_4.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/329/7760329_1_4.jpg",
@@ -33997,8 +33715,8 @@
    "lng": -84.24990509999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1108682,-84.24990509999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1108682,-84.24990509999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1108682,-84.24990509999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1108682,-84.24990509999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/883/7838883_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/883/7838883_1_0.jpg",
@@ -34217,8 +33935,8 @@
    "lng": -84.14398609999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1918314,-84.14398609999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1918314,-84.14398609999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1918314,-84.14398609999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1918314,-84.14398609999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/641/7778641_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/641/7778641_1_2.jpg",
@@ -34427,8 +34145,8 @@
    "lng": -84.196061
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0626761,-84.196061&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0626761,-84.196061&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0626761,-84.196061&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0626761,-84.196061&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/840/7832840_1_1N.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/840/7832840_1_1N.jpg",
@@ -34673,8 +34391,8 @@
    "lng": -84.1914987
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1912555,-84.1914987&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1912555,-84.1914987&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1912555,-84.1914987&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1912555,-84.1914987&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/073/7821073_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/073/7821073_1_0.jpg",
@@ -34986,8 +34704,8 @@
    "lng": -84.2213002
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111022,-84.2213002&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111022,-84.2213002&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111022,-84.2213002&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.2111022,-84.2213002&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/777/7834777_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/777/7834777_1_0.jpg",
@@ -35278,8 +34996,8 @@
    "lng": -84.2266799
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0749804,-84.2266799&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0749804,-84.2266799&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0749804,-84.2266799&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0749804,-84.2266799&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/302/7840302_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/302/7840302_1_0.jpg",
@@ -35558,8 +35276,8 @@
    "lng": -84.1869751
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0932605,-84.1869751&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0932605,-84.1869751&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0932605,-84.1869751&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0932605,-84.1869751&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/866/7839866_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/866/7839866_1_1.jpg",
@@ -35808,8 +35526,8 @@
    "lng": -84.1884747
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0918995,-84.1884747&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0918995,-84.1884747&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0918995,-84.1884747&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0918995,-84.1884747&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/492/7750492_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/492/7750492_1_3.jpg",
@@ -36141,8 +35859,8 @@
    "lng": -84.3925643
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9511786,-84.3925643&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9511786,-84.3925643&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9511786,-84.3925643&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9511786,-84.3925643&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/115/7820115_1_7.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/115/7820115_1_7.jpg",
@@ -36402,8 +36120,8 @@
    "lng": -84.39298099999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9370801,-84.39298099999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9370801,-84.39298099999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9370801,-84.39298099999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9370801,-84.39298099999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/706/7784706_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/706/7784706_1_1.jpg",
@@ -36737,8 +36455,8 @@
    "lng": -84.34137489999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9741714,-84.34137489999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9741714,-84.34137489999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9741714,-84.34137489999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9741714,-84.34137489999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/810/7833810_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/810/7833810_1_3.jpg",
@@ -37030,8 +36748,8 @@
    "lng": -84.32067959999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9997225,-84.32067959999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9997225,-84.32067959999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9997225,-84.32067959999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9997225,-84.32067959999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/033/7821033_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/033/7821033_1_0.jpg",
@@ -37266,8 +36984,8 @@
    "lng": -84.3297767
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0197745,-84.3297767&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0197745,-84.3297767&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0197745,-84.3297767&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0197745,-84.3297767&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/959/7813959_1_7.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/959/7813959_1_7.jpg",
@@ -37522,8 +37240,8 @@
    "lng": -84.3069106
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9980671,-84.3069106&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9980671,-84.3069106&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9980671,-84.3069106&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9980671,-84.3069106&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/410/7794410_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/410/7794410_1_5.jpg",
@@ -37796,8 +37514,8 @@
    "lng": -84.30389319999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9976599,-84.30389319999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9976599,-84.30389319999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9976599,-84.30389319999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9976599,-84.30389319999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/499/7803499_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/499/7803499_1_3.jpg",
@@ -38166,8 +37884,8 @@
    "lng": -84.3029026
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.997208,-84.3029026&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.997208,-84.3029026&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.997208,-84.3029026&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.997208,-84.3029026&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/431/7781431_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/431/7781431_1_0.jpg",
@@ -38451,8 +38169,8 @@
    "lng": -84.2796194
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0349614,-84.2796194&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0349614,-84.2796194&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0349614,-84.2796194&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0349614,-84.2796194&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/793/7820793_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/793/7820793_1_1.jpg",
@@ -38834,8 +38552,8 @@
    "lng": -84.2567316
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0376595,-84.2567316&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0376595,-84.2567316&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0376595,-84.2567316&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0376595,-84.2567316&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/721/7816721_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/721/7816721_1_5.jpg",
@@ -39094,8 +38812,8 @@
    "lng": -84.2520763
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0428722,-84.2520763&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0428722,-84.2520763&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0428722,-84.2520763&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0428722,-84.2520763&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/299/7822299_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/299/7822299_1_0.jpg",
@@ -39452,8 +39170,8 @@
    "lng": -84.2801087
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0103475,-84.2801087&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0103475,-84.2801087&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0103475,-84.2801087&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0103475,-84.2801087&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/157/7806157_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/157/7806157_1_0.jpg",
@@ -39789,8 +39507,8 @@
    "lng": -84.21180590000002
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1702194,-84.21180590000002&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1702194,-84.21180590000002&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1702194,-84.21180590000002&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1702194,-84.21180590000002&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/337/7837337_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/337/7837337_1_2.jpg",
@@ -40024,8 +39742,8 @@
    "lng": -84.1693442
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1260942,-84.1693442&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1260942,-84.1693442&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1260942,-84.1693442&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1260942,-84.1693442&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/719/7838719_33_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/719/7838719_1_1.jpg",
@@ -40296,8 +40014,8 @@
    "lng": -84.2022854
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1055361,-84.2022854&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1055361,-84.2022854&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1055361,-84.2022854&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1055361,-84.2022854&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "planSearch": {
     "at": "2026-09-21T20:01:22.372Z",
     "outcome": "error",
@@ -40553,8 +40271,8 @@
    "lng": -84.2326673
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0995298,-84.2326673&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0995298,-84.2326673&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0995298,-84.2326673&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0995298,-84.2326673&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/891/7812891_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/891/7812891_1_1.jpg",
@@ -40848,8 +40566,8 @@
    "lng": -84.2249408
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1110309,-84.2249408&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1110309,-84.2249408&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1110309,-84.2249408&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1110309,-84.2249408&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/487/7779487_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/487/7779487_1_5.jpg",
@@ -41086,8 +40804,8 @@
    "lng": -84.22337449999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1336907,-84.22337449999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1336907,-84.22337449999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1336907,-84.22337449999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1336907,-84.22337449999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/753/7834753_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/753/7834753_1_2.jpg",
@@ -41313,8 +41031,8 @@
    "lng": -84.2192774
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1877341,-84.2192774&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1877341,-84.2192774&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1877341,-84.2192774&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1877341,-84.2192774&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/685/7817685_4_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/685/7817685_1_0.jpg",
@@ -41646,8 +41364,8 @@
    "lng": -84.19766709999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1443541,-84.19766709999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1443541,-84.19766709999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1443541,-84.19766709999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1443541,-84.19766709999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/299/7818299_1_6.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/299/7818299_1_6.jpg",
@@ -41902,8 +41620,8 @@
    "lng": -84.2098359
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1350396,-84.2098359&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1350396,-84.2098359&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1350396,-84.2098359&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1350396,-84.2098359&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/128/7803128_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/128/7803128_1_0.jpg",
@@ -42204,8 +41922,8 @@
    "lng": -84.187305
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.118825,-84.187305&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.118825,-84.187305&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.118825,-84.187305&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.118825,-84.187305&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/307/7834307_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/307/7834307_1_0.jpg",
@@ -42440,8 +42158,8 @@
    "lng": -84.17382599999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1050529,-84.17382599999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1050529,-84.17382599999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1050529,-84.17382599999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1050529,-84.17382599999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/268/7729268_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/268/7729268_1_0.jpg",
@@ -42735,8 +42453,8 @@
    "lng": -84.3729587
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.961885,-84.3729587&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.961885,-84.3729587&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.961885,-84.3729587&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.961885,-84.3729587&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/452/7833452_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/452/7833452_1_0.jpg",
@@ -43027,8 +42745,8 @@
    "lng": -84.3333935
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431705,-84.3333935&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431705,-84.3333935&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431705,-84.3333935&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9431705,-84.3333935&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/120/7779120_1_5.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/120/7779120_1_5.jpg",
@@ -43321,8 +43039,8 @@
    "lng": -84.3000253
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9960967,-84.3000253&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9960967,-84.3000253&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9960967,-84.3000253&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9960967,-84.3000253&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/323/7838323_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/323/7838323_1_0.jpg",
@@ -43585,8 +43303,8 @@
    "lng": -84.2111735
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.170917,-84.2111735&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.170917,-84.2111735&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.170917,-84.2111735&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.170917,-84.2111735&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/542/7805542_1_2.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/542/7805542_1_2.jpg",
@@ -43837,8 +43555,8 @@
    "lng": -84.3525677
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9559686,-84.3525677&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9559686,-84.3525677&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=33.9559686,-84.3525677&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=33.9559686,-84.3525677&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/660/7839660_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/660/7839660_1_0.jpg",
@@ -44121,8 +43839,8 @@
    "lng": -84.28751129999999
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0894187,-84.28751129999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0894187,-84.28751129999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0894187,-84.28751129999999&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0894187,-84.28751129999999&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/785/7825785_1_D.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/785/7825785_1_D.jpg",
@@ -44406,8 +44124,8 @@
    "lng": -84.2173066
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1794414,-84.2173066&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1794414,-84.2173066&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1794414,-84.2173066&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1794414,-84.2173066&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/822/7818822_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/822/7818822_1_0.jpg",
@@ -44676,8 +44394,8 @@
    "lng": -84.2142822
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1784862,-84.2142822&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1784862,-84.2142822&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1784862,-84.2142822&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1784862,-84.2142822&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/802/7839802_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/802/7839802_1_1.jpg",
@@ -44891,8 +44609,8 @@
    "lng": -84.1061653
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1378053,-84.1061653&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1378053,-84.1061653&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1378053,-84.1061653&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1378053,-84.1061653&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/796/7829796_1_4.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/796/7829796_1_4.jpg",
@@ -45140,8 +44858,8 @@
    "lng": -84.1054821
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1266072,-84.1054821&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1266072,-84.1054821&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1266072,-84.1054821&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1266072,-84.1054821&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/897/7834897_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/897/7834897_1_1.jpg",
@@ -45331,8 +45049,8 @@
    "lng": -84.1079445
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1397875,-84.1079445&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1397875,-84.1079445&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1397875,-84.1079445&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1397875,-84.1079445&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/134/7825134_1_4.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/134/7825134_1_4.jpg",
@@ -45589,8 +45307,8 @@
    "lng": -84.1041391
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.12644,-84.1041391&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.12644,-84.1041391&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.12644,-84.1041391&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.12644,-84.1041391&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/690/7827690_1_3.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/690/7827690_1_3.jpg",
@@ -45832,8 +45550,8 @@
    "lng": -84.2237119
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1994935,-84.2237119&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1994935,-84.2237119&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1994935,-84.2237119&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1994935,-84.2237119&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/158/7808158_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/158/7808158_1_1.jpg",
@@ -46163,8 +45881,8 @@
    "lng": -84.0987586
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1808766,-84.0987586&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1808766,-84.0987586&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1808766,-84.0987586&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1808766,-84.0987586&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/253/7812253_1_9.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/253/7812253_1_9.jpg",
@@ -46375,8 +46093,8 @@
    "lng": -84.1516283
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0252513,-84.1516283&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0252513,-84.1516283&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.0252513,-84.1516283&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.0252513,-84.1516283&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/793/7812793_1_0.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/793/7812793_1_0.jpg",
@@ -46612,8 +46330,8 @@
    "lng": -84.2611888
   },
   "images": {
-   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1859782,-84.2611888&zoom=20&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
-   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1859782,-84.2611888&zoom=17&size=640x640&scale=2&maptype=satellite&key=AIzaSyD8etSxkS1xmNRMuFLge9AW3JbtF6uthFI",
+   "aerial": "https://maps.googleapis.com/maps/api/staticmap?center=34.1859782,-84.2611888&zoom=20&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
+   "aerialWide": "https://maps.googleapis.com/maps/api/staticmap?center=34.1859782,-84.2611888&zoom=17&size=640x640&scale=2&maptype=satellite&key=YOUR_GOOGLE_MAPS_API_KEY",
    "exterior": "https://ssl.cdn-redfin.com/photo/82/bigphoto/601/7834601_1_1.jpg",
    "gallery": [
     "https://ssl.cdn-redfin.com/photo/82/bigphoto/601/7834601_1_1.jpg",

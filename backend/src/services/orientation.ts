@@ -78,6 +78,9 @@ export function toCardinal(deg: number): CardinalDirection {
  * to a few degrees. The sector is the rule, and `nearSouth` below flags the
  * edges so you can see when a house was close to the line.
  */
+/** Written into persisted URLs in place of the real key. */
+export const STREETVIEW_KEY_PLACEHOLDER = 'YOUR_GOOGLE_MAPS_API_KEY';
+
 export function nearSouth(deg: number): boolean {
   const d = Math.abs(((deg - 180 + 540) % 360) - 180);
   return d <= 35 && d > 22.5;   // 145-157.5 and 202.5-215
@@ -470,10 +473,24 @@ export async function resolveOrientation(
   else if (distance > 45 && confidence === 'high') confidence = 'medium';
 
   const direction = toCardinal(deg);
+  /* The key is NOT baked into this URL.
+   *
+   * It used to be, and this URL is persisted — into the perception cache and
+   * onto the listing — so one commit of that cache published the Maps key 877
+   * times across two files. A scanner found it within the hour.
+   *
+   * A Street View Static URL is fetched by the browser, so the key it carries
+   * is visible to that user by design; the real protection is an HTTP-referrer
+   * restriction on the key, never secrecy. But a key visible to one user and a
+   * key committed to a repository are different exposures, and only the second
+   * ends up in a search index.
+   *
+   * So what gets written to disk carries a placeholder, and the key is
+   * substituted when the image is actually requested. */
   const streetViewUrl =
     `https://maps.googleapis.com/maps/api/streetview?size=640x400` +
     `&location=${coords.lat},${coords.lng}&heading=${((deg + 180) % 360).toFixed(0)}` +
-    `&pitch=0&fov=80&key=${KEY}`;
+    `&pitch=0&fov=80&key=${STREETVIEW_KEY_PLACEHOLDER}`;
 
   const notes = [
     `Front faces ${deg.toFixed(0)}° (${direction}), measured from the house to the ` +

@@ -37,3 +37,6 @@ docs/
 # somebody is looking at. Input data, never source.
 links.text
 *.links.txt
+
+# Candidate submissions and review screenshots — never publish.
+Bug */
